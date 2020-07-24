@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320 240">
+  <style>
+    
+    :root {
+      font: 150%/1.5 JetBrains Mono, SF Mono, Menlo, Consolas, Ubuntu Mono, monospace;
+      letter-spacing: 0.15em;
+      color: #fff;
+    }
+    
+    a {
+      fill: #fff;
+    }
+  </style>
+  <rect x="0" y="0" width="100%" height="100%" fill="#000"></rect>
+  
+  <a xlink:href="https://twitter.com/DrMonochromer">
+    <text x="50%" y="50%" dy="-2em" text-anchor="middle">Twitter</text>    
+  </a>
+  
+  <a xlink:href="https://vk.com/dr.monochromer">
+    <text x="50%" y="50%" text-anchor="middle">VK</text>    
+  </a>
+  
+  <a xlink:href="https://codepen.io/monochromer">
+    <text x="50%" y="50%" dy="2em" text-anchor="middle">Codepen</text>    
+  </a>
+</svg>
