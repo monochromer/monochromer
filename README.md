@@ -1,5 +1,4 @@
-![image.svg](image.svg)
-
+![hero image](image.svg)
 
 * [twitter](https://twitter.com/DrMonochromer)
 * [vk](https://vk.com/dr.monochromer)
