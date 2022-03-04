@@ -3,4 +3,3 @@
 Contacts:
 * [twitter](https://twitter.com/DrMonochromer)
 * [telegram](https://t.me/drmonochromer)
-* [codepen](https://codepen.io/monochromer)
