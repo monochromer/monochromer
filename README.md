@@ -3,4 +3,4 @@
 Contacts:
 * [twitter](https://twitter.com/DrMonochromer)
 * [telegram](https://t.me/drmonochromer)
-* [email](hwk85tkvs@relay.firefox.com)
+* [email](mailto:hwk85tkvs@relay.firefox.com)
